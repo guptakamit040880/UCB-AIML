@@ -11,3 +11,10 @@ Final solution required for module 5 is in the form of jupyter notebook located 
 Coming to summay of findings ...
 Acceptance of Bar coupon is more likely with the drivers who usually visits the bar more than once a month. Other factors like age over 25, not having kid as passanger, travelling with group add a little more positive on acceptance.
 ###########################################
+
+##### New Changes for M11 #################
+
+Notebook for the assignment of M11 is at the following location ...
+M11/practical_application_II_starter/prompt_II.ipynb
+
+##########################################
